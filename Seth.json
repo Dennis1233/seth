@@ -2,7 +2,7 @@
   {
     "id": 145,
     "name": "SanJuan City",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/city.PNG",
+    "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/1.jpg",
     "price": 90,
     "priceCurrency": "PESO",
     "lat": 16.671967,
@@ -11,7 +11,7 @@
   {
     "id": 148,
     "name": "Grape Farm",
-    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/1.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/rybaladad/elyu/master/2.jpg",
     "price": 200,
     "priceCurrency": "PESO",
     "lat": 16.491487,
