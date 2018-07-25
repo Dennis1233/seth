@@ -21,7 +21,7 @@
     "id": 201,
     "name": "Puerto Princesa Underground River",
     "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/b.jpg",
-    "price": 150,
+    "price": 1082,
     "priceCurrency": "km",
     "lat": 10.192559,
     "lng": 118.926583
@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Chocolate Hills",
     "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/c.jpg",
-    "price": 115,
+    "price": 1204,
     "priceCurrency": "km",
     "lat": 9.829708,
     "lng": 124.139676
@@ -39,7 +39,7 @@
     "id": 210,
     "name": "Rice Terraces",
     "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/d.jpg",
-    "price": 135,
+    "price": 271,
     "priceCurrency": "km",
     "lat": 16.923954,
     "lng": 121.055640
@@ -48,7 +48,7 @@
     "id": 211,
     "name": "El Nido Palawan",
     "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/e.jpg",
-    "price": 90,
+    "price": 895,
     "priceCurrency": "km",
     "lat": 11.209709,
     "lng": 119.462254
@@ -57,7 +57,7 @@
     "id": 212,
     "name": "Vigan",
     "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/f.jpg",
-    "price": 135,
+    "price": 130,
     "priceCurrency": "km",
     "lat": 17.570490,
     "lng": 120.387330
@@ -66,7 +66,7 @@
     "id": 213,
     "name": "Camiguin",
     "imageUrl": "https://github.com/Dennis1233/seth/blob/master/g.jpg",
-    "price": 135,
+    "price": 1356,
     "priceCurrency": "km",
     "lat": 9.173216,
     "lng": 124.729877
@@ -75,7 +75,7 @@
     "id": 214,
     "name": "Cebu City",
     "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/h.jpg",
-    "price": 135,
+    "price": 1133,
     "priceCurrency": "km",
     "lat": 10.315699,
     "lng": 123.885437
@@ -84,7 +84,7 @@
     "id": 215,
     "name": "Boracay",
     "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/i.jpg",
-    "price": 135,
+    "price": 721,
     "priceCurrency": "km",
     "lat": 11.967375,
     "lng": 121.924815
@@ -93,7 +93,7 @@
     "id": 216,
     "name": "Tagaytay",
     "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/j.jpg",
-    "price": 135,
+    "price": 347,
     "priceCurrency": "km",
     "lat": 14.115286,
     "lng": 120.962116
@@ -102,7 +102,7 @@
     "id": 217,
     "name": "Catanduanes",
     "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/k.jpg",
-    "price": 135,
+    "price": 877,
     "priceCurrency": "km",
     "lat": 13.708868,
     "lng": 124.242160
@@ -111,7 +111,7 @@
     "id": 218,
     "name": "Siargao, Surigao del Norte",
     "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/l.jpg",
-    "price": 135,
+    "price": 1890,
     "priceCurrency": "km",
     "lat": 9.848188,
     "lng": 126.045844
