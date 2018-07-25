@@ -61,7 +61,7 @@
     "priceCurrency": "PESO",
     "lat": 17.570490,
     "lng": 120.387330
-     },
+  },
   {
     "id": 213,
     "name": "Camiguin",
@@ -70,5 +70,50 @@
     "priceCurrency": "PESO",
     "lat": 9.173216,
     "lng": 124.729877
+   },
+  {
+    "id": 214,
+    "name": "Cebu City",
+    "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/h.jpg",
+    "price": 135,
+    "priceCurrency": "PESO",
+    "lat": 10.315699,
+    "lng": 123.885437
+  },
+  {
+    "id": 215,
+    "name": "Boracay",
+    "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/h.jpg",
+    "price": 135,
+    "priceCurrency": "PESO",
+    "lat": 11.967375,
+    "lng": 121.924815
+  },
+  {
+    "id": 216,
+    "name": "Tagaytay",
+    "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/h.jpg",
+    "price": 135,
+    "priceCurrency": "PESO",
+    "lat": 14.115286,
+    "lng": 120.962116
+  },
+  {
+    "id": 217,
+    "name": "Catanduanes",
+    "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/h.jpg",
+    "price": 135,
+    "priceCurrency": "PESO",
+    "lat": 13.708868,
+    "lng": 124.242160
+ },
+  {
+    "id": 218,
+    "name": "Siargao, Surigao del Norte",
+    "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/h.jpg",
+    "price": 135,
+    "priceCurrency": "PESO",
+    "lat": 9.848188,
+    "lng": 126.045844
   }
 ]
