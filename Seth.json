@@ -65,7 +65,7 @@
   {
     "id": 213,
     "name": "Camiguin",
-    "imageUrl": "https://github.com/Dennis1233/seth/blob/master/g.jpg",
+    "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/g.jpg",
     "price": 1356,
     "priceCurrency": "km",
     "lat": 9.173216,
