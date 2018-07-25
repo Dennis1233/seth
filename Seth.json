@@ -61,5 +61,14 @@
     "priceCurrency": "PESO",
     "lat": 17.570490,
     "lng": 120.387330
+     },
+  {
+    "id": 213,
+    "name": "Camiguin",
+    "imageUrl": "https://github.com/Dennis1233/seth/blob/master/g.jpg",
+    "price": 135,
+    "priceCurrency": "PESO",
+    "lat": 9.173216,
+    "lng": 124.729877
   }
 ]
