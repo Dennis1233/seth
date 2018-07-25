@@ -52,5 +52,14 @@
     "priceCurrency": "PESO",
     "lat": 11.209709,
     "lng": 119.462254
+  },
+  {
+    "id": 210,
+    "name": "Vigan",
+    "imageUrl": "https://raw.githubusercontent.com/Dennis1233/seth/master/f.jpg",
+    "price": 135,
+    "priceCurrency": "PESO",
+    "lat": 17.570490,
+    "lng": 120.387330
   }
 ]
